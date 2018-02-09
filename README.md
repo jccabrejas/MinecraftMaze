@@ -10,3 +10,4 @@ Built with Tkinter following (partially) this tutorial http://thinkingtkinter.so
 1. Build maze based on photo taken
 2. Load photo and recreate photo on Minecraft with blocks
 
+![alt text](https://github.com/jccabrejas/MinecraftMaze/blob/master/media/MinecraftMazeBuilder.png)
