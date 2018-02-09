@@ -1,4 +1,4 @@
-Minecraft Maze Builder
+# Minecraft Maze Builder
 
 ### Concept
 This code is created to support CoderDojo sessions and help bringing children into programming. It gives an example for something that can be achieved with moderate effort, for children to fork the project and expand it. Initially I wanted to create an easy way of building a maze into Minecraft.
